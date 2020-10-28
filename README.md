@@ -98,7 +98,7 @@ When the scene is open and the suit is paired up with a profile. Go to **Start L
 Then navigate to **Custom** and click on the cogwheel. 
 Now change the port to **14045** and change the Data format to **JSON v3**. Then click on the little slider beside the port number.
 
-<img src="Images/studioSetup.PNG">
+<img src="Images/studioSetup.PNG"> <img src="Images/UnrealPannel.gif">
 
 **Show the Rokoko Studio UI inside Unreal Engine**
 In the content browser, click on **View Options** and enable **Show Plugins Content.** Then in the content view find **Widgets** under **Smartsuit Content**, and drag it into the scene. This will enable the UI when streaming from Rokoko Studio.
