@@ -85,7 +85,7 @@ When the BoneMap is done open the AnimBP again and click on Rokoko Body Pose. Th
 
 <img src="Images/boneMapOverwrite.png">
 
-Now add the character skeletal mesh to the scene and navigate to the details panel and pick your animBlueprint under **Animation → Anim Class.** Then under Place Actors search **Rokoko Reciever** and drag them into the scene. Click on the S**martsuit Receiver** in the **world outliner** and change the Streaming Data Port to **14043.**
+Now add the character skeletal mesh to the scene and navigate to the details panel and pick your animBlueprint under **Animation → Anim Class.** Then under Place Actors search **Rokoko Reciever** and drag it into the scene. Click on the **Rokoko Receiver** in the **world outliner** and change the Streaming Data Port to **14043.**
 
 <img src="Images/smartSuitReciverSetup.PNG">
 
