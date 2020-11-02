@@ -79,7 +79,7 @@ Now click on the **plus** next to variables and change the variable type to **Na
 
 <img src="Images/ActorProfileName.PNG"> <img src="Images/ActorName.PNG">
 
-Right-click on the content browser and navigate to miscellaneous and create a **Data Asse**. Name it something like **character_BoneMap.** Now open it and write the names of the corresponding joints in the hierarchy. (If you use the same joint naming on more characters you can reuse this data asset)
+Right-click on the content browser and navigate to miscellaneous and create a **Data Asset**. Choose the SmartsuitBodyMapData preset. Name it something like **character_BoneMap.** Now open it and write the names of the corresponding joints in the hierarchy. (If you use the same joint naming on more characters you can reuse this data asset)
 
 <img src="Images/dataAsset.png">
 
