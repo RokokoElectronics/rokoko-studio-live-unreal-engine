@@ -31,7 +31,7 @@ https://github.com/Rokoko/Unreal-Demo-Project
 
 #### Issues
 
-File a bug in [GitHub Issues](https://github.com/RokokoElectronics/rokoko-studio-unreal-sample-project/issues)
+File a bug in [GitHub Issues](https://github.com/Rokoko/rokoko-studio-live-unreal-engine/issues)
 
 #### License
 
